@@ -1,6 +1,6 @@
-# amazon_mvvm_clone
+# E-Commerce App 
 
-A new Flutter project.
+
 
 ## Getting Started
 
